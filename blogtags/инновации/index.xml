@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Инновации on Маркова В.Д.</title>
+    <link>http://markova.biz/blogtags/%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    <description>Recent content in Инновации on Маркова В.Д.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Apr 2018 21:54:53 -0500</lastBuildDate>
+    
+	<atom:link href="http://markova.biz/blogtags/%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Статья про маркетинг</title>
+      <link>http://markova.biz/blog/marketing/</link>
+      <pubDate>Sun, 29 Apr 2018 21:54:53 -0500</pubDate>
+      
+      <guid>http://markova.biz/blog/marketing/</guid>
+      <description>Это моя статья про маркетинг
+Очень умная и интересная
+Изучение любой темы необходимо начинать с изучения понятийного аппарата  
+&amp;ldquo;Я знаю, что это такое, но сказать не могу&amp;rdquo; - курс нацелен на решение именно этой проблемы</description>
+    </item>
+    
+  </channel>
+</rss>
