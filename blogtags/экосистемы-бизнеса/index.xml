@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог on Маркова В.Д.</title>
-    <link>http://markova.biz/blog/</link>
-    <description>Recent content in Блог on Маркова В.Д.</description>
+    <title>Экосистемы Бизнеса on Маркова В.Д.</title>
+    <link>http://markova.biz/blogtags/%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0/</link>
+    <description>Recent content in Экосистемы Бизнеса on Маркова В.Д.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 21:54:53 -0500</lastBuildDate>
     
-	<atom:link href="http://markova.biz/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://markova.biz/blogtags/%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://markova.biz/blog/digital_economy_business/</guid>
       <description>ЦИФРОВАЯ ЭКОНОМИКА и БИЗНЕС Цифровые технологии радикально меняют отрасли и рынки, оказывая разностороннее влияние на деятельность компаний, формируя новые реалии бизнеса, которые пока в полной мере не понятны.
 Я рассматриваю цифровую трансформацию бизнеса как процесс превращения традиционной организации в цифровую компанию, в деятельности которой присутствуют как материальные, так и цифровые объекты.  Цифровыми объектами являются цифровой двойник технически сложного изделия, интернет-магазин, онлайн-банк, сайт компании, робот/бот как цифровая модель работы колл-центра, причем этот перечень непрерывно расширяется.</description>
-    </item>
-    
-    <item>
-      <title>О цифровой экономике</title>
-      <link>http://markova.biz/blog/digital_economy/</link>
-      <pubDate>Sun, 29 Apr 2018 21:54:53 -0500</pubDate>
-      
-      <guid>http://markova.biz/blog/digital_economy/</guid>
-      <description>Так что же такое цифровая экономика? Раз в год я веду курс у магистрантов экономического факультета НГУ &amp;ldquo;Маркетинг инноваций&amp;rdquo;, но постоянно его обновляю. В этом году дала задание студентам найти в Новосибирске компании, которые предлагает на рынок цифровые продукты или услуги.
-Магистранты рассказали о системе &amp;ldquo;Город&amp;rdquo; компании ЦФТ, через которую можно оплачивать коммунальные услуги, платить налоги, штрафы и многое другое, и мы обсудили, что по сути это цифровая многосторонняя платформа, на базе которой сформирована обширная экосистема бизнеса.</description>
     </item>
     
   </channel>
