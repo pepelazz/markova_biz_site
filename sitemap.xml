@@ -38,6 +38,16 @@
   </url>
   
   <url>
+    <loc>http://markova.biz/blogtags/amazon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://markova.biz/blogtags/api/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://markova.biz/blogtags/</loc>
     <priority>0</priority>
   </url>
